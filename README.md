@@ -1,0 +1,2 @@
+# blockslot
+blokir game slot
