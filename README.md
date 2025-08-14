@@ -1,2 +1,1 @@
-# blockslot
-blokir game slot
+#BLOCKSLOTSELAMANYA
